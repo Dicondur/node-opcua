@@ -57,7 +57,7 @@
     "yuidocjs": "*"
   },
   "dependencies": {
-    "async": "2.1.4",
+    "async": "2.6.4",
     "backoff": "2.5.0",
     "better-assert": "1.0.2",
     "bomstrip": "0.1.4",
